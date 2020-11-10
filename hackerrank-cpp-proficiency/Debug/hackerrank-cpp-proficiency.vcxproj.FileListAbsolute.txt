@@ -1,0 +1,2 @@
+C:\projects\cpp-programming\hackerrank-cpp-proficiency\Debug\hackerrank-cpp-proficiency.exe
+C:\projects\cpp-programming\hackerrank-cpp-proficiency\Debug\hackerrank-cpp-proficiency.pdb

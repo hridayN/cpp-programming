@@ -1,0 +1,3 @@
+﻿  cpp-practice.cpp
+C:\projects\cpp-programming\hackerrank-cpp-proficiency\cpp-practice.cpp(67): warning C4715: 'max_of_four': not all control paths return a value
+  hackerrank-cpp-proficiency.vcxproj -> C:\projects\cpp-programming\hackerrank-cpp-proficiency\Debug\hackerrank-cpp-proficiency.exe

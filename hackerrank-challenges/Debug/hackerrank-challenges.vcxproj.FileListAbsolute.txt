@@ -1,0 +1,2 @@
+C:\projects\cpp-programming\hackerrank-challenges\Debug\hackerrank-challenges.exe
+C:\projects\cpp-programming\hackerrank-challenges\Debug\hackerrank-challenges.pdb

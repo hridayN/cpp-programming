@@ -1,0 +1,2 @@
+C:\projects\cpp-programming\CppFullCourse\Debug\CppFullCourse.exe
+C:\projects\cpp-programming\CppFullCourse\Debug\CppFullCourse.pdb

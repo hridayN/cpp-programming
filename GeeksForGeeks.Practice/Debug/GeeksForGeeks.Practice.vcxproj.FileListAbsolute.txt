@@ -1,0 +1,2 @@
+C:\projects\cpp-programming\GeeksForGeeks.Practice\Debug\GeeksForGeeks.Practice.exe
+C:\projects\cpp-programming\GeeksForGeeks.Practice\Debug\GeeksForGeeks.Practice.pdb
