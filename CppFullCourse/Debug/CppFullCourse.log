@@ -1,2 +1,3 @@
 ﻿  Basics.cpp
+C:\projects\cpp-programming\CppFullCourse\Basics.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
   CppFullCourse.vcxproj -> C:\projects\cpp-programming\CppFullCourse\Debug\CppFullCourse.exe

@@ -1,0 +1,4 @@
+The source code written by programmers is stored in the file program.c. 
+This program.c file is then processed by preprocessors and an expanded source code file is generated named program. (preprocessors -> expanded source code file)
+This expanded file, program is compiled by the compiler and an object code file is generated named program.obj. (compiler -> object code file)
+Finally, the linker links this object code file, program.obj to the object code of the library functions to generate the executable file program.exe. (linker -> executable file)
